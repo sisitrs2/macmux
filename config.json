@@ -1,0 +1,8 @@
+{
+    "command_mode_toggle_key": "CapsLock",
+    "application_preferences": {
+        "music": "Spotify",
+        "tv": "Netflix",
+        "videos": "Youtube"
+    }
+}
